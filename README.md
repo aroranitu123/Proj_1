@@ -1,11 +1,4 @@
 
-# Problem 1: The Unified Marketing Pipeline
-
-**Horrazon AI – Round 2 Technical Assessment**  
-**Role:** Data Engineering Intern  
-**Candidate:** Nitya Arora  
-**Project:** Unified Marketing Data Pipeline  
-**Database:** PostgreSQL
 
 ---
 
